@@ -1,11 +1,5 @@
 # HarmFour
 
-## CMLS Homerwork 3
-
-* 10800970
-* 10823661
-* 10529136
-
 ## Introduction
 
 HarmFour is a Voice Harmonizer implemented with SuperCollider and can perform an OSC communication with the GUI built with the JUCE framework and a Syntien OSC app (controls only the trackpad of the JUCE's GUI).
